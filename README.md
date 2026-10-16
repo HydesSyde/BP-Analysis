@@ -164,3 +164,16 @@ Module 6: Implementation, Documentation and Continuous Improvement
 4. Standard Operating Procedure (SOP)
 5. Process performance tracker
 6. Process improvement report
+
+
+
+**Subject to change:**
+
+<br/>
+<p>
+  ---------------------------------------------------------
+  Author: Igbanesi Michael
+  Tutors: Igbanesi Michael, Oludayo-Ojo Toluwalase Samuel 
+  Whatsapp: 09033669879, 08063419580
+  ---------------------------------------------------------
+</p>
