@@ -167,7 +167,7 @@ Module 6: Implementation, Documentation and Continuous Improvement
 
 
 
-**Subject to change:**
+**NB: Curriculum is Subject to change:**
 
 <br/>
 <p>
