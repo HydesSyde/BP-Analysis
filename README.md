@@ -172,8 +172,12 @@ Module 6: Implementation, Documentation and Continuous Improvement
 <br/>
 <p>
   ---------------------------------------------------------
+  <br/>
   Author: Igbanesi Michael
+  <br/>
   Tutors: Igbanesi Michael, Oludayo-Ojo Toluwalase Samuel 
+  <br/>
   Whatsapp: 09033669879, 08063419580
+  <br/>
   ---------------------------------------------------------
 </p>
