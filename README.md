@@ -84,7 +84,33 @@ Module 6: Solution Evaluation and Business Recommendations
 1. Process Analysis — Course Outline
 
 *Process Analysis*
+By the end of this programme, learners should be able to:
+<ol>
+  <li>Explain the principles, concepts, and lifecycle of Business Process Management.</li>
+  <li>Identify, scope, and document business processes within an organisation.
+</li>
+  <li>Conduct process discovery through interviews, observation, workshops, and document analysis.
+</li>
+  <li>Develop process maps using flowcharts, swimlane diagrams, and BPMN 2.0.
+</li>
+  <li>Analyse existing processes to identify bottlenecks, waste, risks, and operational inefficiencies.
+</li>
+  <li>Apply quantitative techniques to measure and evaluate process performance.
+</li>
+  <li>Use root-cause analysis techniques to investigate process problems.
+</li>
+  <li>Design improved business processes using Lean principles and process redesign techniques.
+</li>
+  <li>Establish process performance indicators and monitoring mechanisms.
+</li>
+  <li>Communicate process analysis findings and present practical improvement recommendations.
+</li>
+</ol>
 
+
+Module 1: Introduction to Business Process Analysis and Process Discovery
+
+Duration: Weeks 1–2
 1. Definition and fundamentals of Process Analysis
 2. Business processes, tasks, activities, and workflows
 3. Inputs, outputs, and process resources
@@ -93,68 +119,78 @@ Module 6: Solution Evaluation and Business Recommendations
 6. Business Analysis vs Process Analysis
 7. Common process problems and inefficiencies
 
-Module 2: Process Discovery and Documentation
+Module 2: Process Mapping and Business Process Modelling (BPMN 2.0)
 
-1. Process identification and selection
-2. Defining process boundaries
-3. Process discovery techniques
-4. Interviews and observation
-5. Document review and information gathering
-6. Identifying process participants and responsibilities
-7. Tasks, decisions, handoffs, and exceptions
-8. Current-state process documentation
-9. Process inventories and descriptions
+1. Explain the importance of process mapping and modelling.
+2. Differentiate between flowcharts, swimlane diagrams, and BPMN diagrams.
+3. Identify the major components of a process map.
+4. Develop basic flowcharts to represent business activities.
+5. Create swimlane diagrams to illustrate departmental responsibilities and process handoffs.
+6. Understand BPMN 2.0 notation and modelling conventions.
+7. Identify and use BPMN events, activities, gateways, sequence flows, and message flows.
+8. Understand pools, lanes, and process participants.
+9. Model business processes using appropriate BPMN elements.
+10. Use process modelling software to document business processes.
+11. Validate process diagrams for accuracy, completeness, and readability.
 
-Module 3: Process Mapping and Flowcharting
+Module 3: Process Analysis, Lean Management and Performance Measurement
 
-1. Introduction to process mapping
-2. Flowchart symbols and conventions
-3. Start and end points, activities, and decisions
-4. Sequential and parallel processes
-5. Decision trees and alternative pathways
-6. Swimlane diagrams
-7. As-Is process mapping
-8. Introduction to Business Process Model and Notation (BPMN)
-9. Process map validation
+1. Explain the purpose and importance of process analysis.
+2. Differentiate between value-added, non-value-added, and necessary non-value-added activities.
+3. Identify waste within business processes using Lean principles.
+4. Explain the eight common types of operational waste.
+5. Identify bottlenecks, delays, rework, duplication, and unnecessary handoffs.
+6. Evaluate process efficiency and effectiveness.
+7. Calculate and interpret cycle time and lead time.
+8. Understand throughput, work-in-progress (WIP), capacity, and resource utilisation.
+9. Measure process quality using error rates and first-pass yield.
+10. Analyse process performance using basic quantitative techniques.
+11. Identify opportunities for operational improvement using process performance data.
 
 Module 4: Process Analysis and Bottleneck Identification
 
-1. Identifying bottlenecks and delays
-2. Process cycle time and throughput
-3. Identifying redundant activities
-4. Handoffs and workflow interruptions
-5. Error and rework analysis
-6. Value-added versus non-value-added activities
-7. Root cause analysis
-8. Five Whys and fishbone diagrams
-9. Introduction to Lean process improvement
-10. Process performance assessment
+1. Explain the importance of root-cause analysis in process improvement.
+2. Differentiate between symptoms, immediate causes, and root causes.
+3. Apply the Five Whys technique to investigate process problems.
+4. Develop fishbone (Ishikawa) diagrams to identify possible causes of process failures.
+5. Apply Pareto analysis to prioritise major process problems.
+6. Understand the principles of Failure Mode and Effects Analysis (FMEA).
+7. Identify potential process failure modes and their effects.
+8. Assess process risks based on severity, occurrence, and detectability.
+9. Identify control weaknesses and operational risks.
+10. Develop practical corrective and preventive recommendations.
+11. Present evidence-based findings from a process investigation.
 
-Module 5: Process Redesign and Improvement
+Module 5: Process Improvement, Redesign and Performance Management
 
-1. Future-state process design (To-Be)
-2. Process optimisation
-3. Eliminating unnecessary steps
-4. Reducing duplication and delays
-5. Workflow simplification
-6. Task allocation and accountability
-7. Standardisation and templates
-8. Process automation opportunities
-9. Risk assessment in process redesign
-10. Comparing As-Is and To-Be processes
+1. Explain the principles of business process improvement and redesign.
+2. Differentiate between incremental process improvement and process redesign.
+3. Apply Lean principles to simplify and improve business processes.
+4. Identify opportunities to eliminate waste and reduce operational delays.
+5. Develop improved future-state (TO-BE) process models.
+6. Compare current-state (AS-IS) and future-state (TO-BE) processes.
+7. Identify opportunities for process standardisation and automation.
+8. Understand the relationship between process improvement and organisational change.
+9. Develop implementation recommendations and improvement roadmaps.
+10. Define Key Performance Indicators (KPIs) for monitoring process performance.
+11. Develop basic process performance dashboards.
+12. Explain the importance of continuous improvement and process governance.
 
-Module 6: Implementation, Documentation and Continuous Improvement
+Module 6: Process Performance Monitoring, Reporting and Capstone Project
 
-1. Standard Operating Procedures (SOPs)
-2. Process documentation and checklists
-3. Process performance indicators
-4. Change implementation
-5. Team training and communication
-6. Change management
-7. Process monitoring and compliance
-8. Continuous improvement
-9. Plan-Do-Check-Act (PDCA) cycle
-10. Process improvement reporting
+1. Explain the importance of continuous process monitoring and evaluation.
+2. Develop appropriate KPIs for measuring business process performance.
+3. Interpret process performance data and identify performance gaps.
+4. Understand basic process control and monitoring techniques.
+5. Explain the importance of process audits and benchmarking.
+6. Understand the basic concept and applications of process mining.
+7. Prepare professional process analysis and improvement reports.
+8. Communicate process findings to technical and non-technical stakeholders.
+9. Present evidence-based recommendations for improving business operations.
+10. Develop a practical process improvement roadmap.
+11. Apply process discovery, mapping, analysis, and redesign techniques to a real-world business case.
+
+Defend and present a complete process improvement project.
 
 *Practical Project*
 
@@ -165,7 +201,25 @@ Module 6: Implementation, Documentation and Continuous Improvement
 5. Process performance tracker
 6. Process improvement report
 
+Recommended Course Tools and Resources
 
+Tool
+
+Application
+
+Bizagi Modeler - BPMN 2.0 process modelling
+
+Draw.io - Flowcharts and process diagrams
+
+Camunda Modeler - BPMN process modelling
+
+Microsoft Excel - Process data analysis and calculations
+
+Google Sheets - Collaborative data analysis
+
+Power BI - Basic KPI dashboards and visualisation
+
+PM4Py - Advanced introduction to process mining
 
 **NB: Curriculum is Subject to change:**
 
