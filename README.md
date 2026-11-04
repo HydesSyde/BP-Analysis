@@ -81,7 +81,7 @@ Module 6: Solution Evaluation and Business Recommendations
 * KPI tracker or dashboard
 * Business improvement recommendations
 
-1. Process Analysis — Course Outline
+<h1>Process Analysis — Course Outline </h1> 
 
 *Process Analysis*
 By the end of this programme, learners should be able to:
@@ -111,15 +111,19 @@ By the end of this programme, learners should be able to:
 Module 1: Introduction to Business Process Analysis and Process Discovery
 
 Duration: Weeks 1–2
-1. Definition and fundamentals of Process Analysis
-2. Business processes, tasks, activities, and workflows
-3. Inputs, outputs, and process resources
-4. Process owners and stakeholders
-5. Process efficiency and effectiveness
-6. Business Analysis vs Process Analysis
-7. Common process problems and inefficiencies
+1. Define Business Process Analysis and Business Process Management.
+2. Explain the importance of process analysis in organisational performance and business transformation.
+3. Differentiate between business processes, procedures, activities, tasks, and workflows.
+4. Explain the BPM lifecycle and its major stages.
+5. Identify different types of business processes, including core, support, and management processes.
+6. Identify process owners, stakeholders, inputs, outputs, suppliers, and customers.
+7. Define process scope, boundaries, triggers, and expected outcomes.
+8. Apply process discovery techniques to understand existing business operations.
+9. Conduct basic stakeholder interviews and process observation.
+10. Develop a SIPOC diagram to establish an overview of a business process
 
 Module 2: Process Mapping and Business Process Modelling (BPMN 2.0)
+Duration: Weeks 3-4
 
 1. Explain the importance of process mapping and modelling.
 2. Differentiate between flowcharts, swimlane diagrams, and BPMN diagrams.
@@ -134,6 +138,7 @@ Module 2: Process Mapping and Business Process Modelling (BPMN 2.0)
 11. Validate process diagrams for accuracy, completeness, and readability.
 
 Module 3: Process Analysis, Lean Management and Performance Measurement
+Duration: Weeks 5–6
 
 1. Explain the purpose and importance of process analysis.
 2. Differentiate between value-added, non-value-added, and necessary non-value-added activities.
@@ -148,6 +153,7 @@ Module 3: Process Analysis, Lean Management and Performance Measurement
 11. Identify opportunities for operational improvement using process performance data.
 
 Module 4: Process Analysis and Bottleneck Identification
+Duration: Weeks 7–8
 
 1. Explain the importance of root-cause analysis in process improvement.
 2. Differentiate between symptoms, immediate causes, and root causes.
@@ -162,6 +168,7 @@ Module 4: Process Analysis and Bottleneck Identification
 11. Present evidence-based findings from a process investigation.
 
 Module 5: Process Improvement, Redesign and Performance Management
+Duration: Weeks 9–10
 
 1. Explain the principles of business process improvement and redesign.
 2. Differentiate between incremental process improvement and process redesign.
@@ -177,7 +184,7 @@ Module 5: Process Improvement, Redesign and Performance Management
 12. Explain the importance of continuous improvement and process governance.
 
 Module 6: Process Performance Monitoring, Reporting and Capstone Project
-
+Duration: Weeks 11–12
 1. Explain the importance of continuous process monitoring and evaluation.
 2. Develop appropriate KPIs for measuring business process performance.
 3. Interpret process performance data and identify performance gaps.
